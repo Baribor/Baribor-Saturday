@@ -78,6 +78,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Baribor/Baribor/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Baribor/Baribor-Saturday/output/snake.svg" alt="Snake animation" />
 
 ###
